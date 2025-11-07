@@ -8,7 +8,6 @@ remappings = [
     "v4-periphery/=lib/v4-periphery/contracts/"
 ]
 
-# See more config options https://github.com/foundry-rs/foundry/blob/master/crates/config/README.md#all-options
 
 # foundry.toml
 
